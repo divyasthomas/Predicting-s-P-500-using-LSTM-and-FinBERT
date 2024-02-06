@@ -1,5 +1,5 @@
 
-Forecasting S&P 500 Index Closing Price using LSTM and finBERT
+## Forecasting S&P 500 Index Closing Price using LSTM and finBERT
 
 Predicting stock market movements holds significant importance for traders, investors, and portfolio managers worldwide, especially amidst the heightened volatility caused by the Covid-19 pandemic and increased market participation. Leveraging advanced machine-learning techniques, such as Long Short-Term Memory (LSTM) models, has become increasingly common due to the growing availability of computational resources.
 
